@@ -1,0 +1,22 @@
+C:\Users\Alexandru Gabriel\Desktop\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alexandru Gabriel\Desktop\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alexandru Gabriel\Desktop\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alexandru Gabriel\Desktop\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Alexandru Gabriel\Desktop\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandru Gabriel\Desktop\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Alexandru Gabriel\Desktop\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alexandru Gabriel\Desktop\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alexandru Gabriel\Desktop\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru Gabriel\Desktop\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alexandru Gabriel\Desktop\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Alexandru Gabriel\Desktop\Visual Studio Projects\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alexandru Gabriel\Desktop\Visual Studio Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alexandru Gabriel\Desktop\Visual Studio Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alexandru Gabriel\Desktop\Visual Studio Projects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Alexandru Gabriel\Desktop\Visual Studio Projects\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandru Gabriel\Desktop\Visual Studio Projects\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Alexandru Gabriel\Desktop\Visual Studio Projects\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alexandru Gabriel\Desktop\Visual Studio Projects\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alexandru Gabriel\Desktop\Visual Studio Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru Gabriel\Desktop\Visual Studio Projects\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alexandru Gabriel\Desktop\Visual Studio Projects\Calculator\obj\Debug\Calculator.pdb

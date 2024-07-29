@@ -1,3 +1,3 @@
 # Calculator-Csharp
 
-The executable is in bin/Debug/Calculator.exe
+The executable can also be find in bin/Debug/Calculator.exe and obj/Debug/Calculator.exe
